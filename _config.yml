@@ -94,7 +94,7 @@ permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 # _config.yml
 livereload: true  # 确保启用
-watch: true       # 确保启用文件监视
+watch: false       # 确保启用文件监视
 
 # Pagination
 pagination:
